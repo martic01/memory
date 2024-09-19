@@ -60,7 +60,7 @@ let restart = () => {
     $(".cards").removeClass("gotit");
     $(".keep").slideUp();
     fire = 15
-    check = [0, 0, 0]
+    check = [0, 0, 0];
     checkFinal = [0, true, true, true];
     cardState = [true, true, true];
 }
