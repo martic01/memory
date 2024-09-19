@@ -65,13 +65,13 @@
 ```bash
 # Repository Address
 
-git clone https://github.com/martic01/projectname on git.git
+git clone https://github.com/martic01/memory.git
 ```
 ### Navigate to top directory
 ```bash
 # Project Name
 
-cd project folder name
+cd memory
 
 ```
 ### Open the application
@@ -85,7 +85,7 @@ Open index.html in your web browser to use the application.
 
 ## Known Bugs
 
-* 
+* no bugs yet
 
 ## License
 
