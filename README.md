@@ -1,6 +1,6 @@
 ### By Aboyade Matthew
 
-# _Martic Memory_
+# _Martic Memory Game_
 
 
 ## Table of Contents
@@ -8,7 +8,6 @@
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Description](#description)
-- [Usage](#usage)
 - [Features](#features)
 - [License](#license)
 - [Contact](#contact)
