@@ -139,7 +139,7 @@ img {
 
 .game-cont div:hover {
     transition: .3s;
-    background: linear-gradient(90deg, rgba(7, 159, 219, 0.945), rgba(230, 12, 12, 0.534), rgba(5, 164, 204, 0.897));
+    background: linear-gradient(90deg, rgba(7, 159, 219, 0.945), rgba(230, 12, 12, 0.534), rgba(6, 167, 207, 0.897));
     width: 32%;
     color: red;
     height: 32%;
