@@ -50,9 +50,9 @@ let restart = () => {
     example1.style.cssText = ``;
     example2.style.cssText = ``;
     example3.style.cssText = ``;
-    animate.style.width = `15vw`
-    animate3.style.height = `100%`
-     animate2.style.height = `98%`
+    animate.style.width = `15vw`;
+    animate3.style.height = `100%`;
+     animate2.style.height = `98%`;
     animate2.style.transform = `translateX(180px)`;
     $(".first").removeClass("gotit");
     $(".second").removeClass("gotit");
