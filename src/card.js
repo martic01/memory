@@ -125,7 +125,7 @@ let check1 = () => {
         }
         if (live === 0) {
             animate.style.width = `29vw`
-            animate2.style.height = `3%`
+            animate2.style.height = `0%`
             animate3.style.height = `100%`
             $(".cards").addClass("gotit");
             $(".cards img").hide();
